@@ -8,6 +8,7 @@ Very beta RIB to GPX converter - and soon to be other things too.
 Windows users:
 First, copy .RIB files from HUD to your computer!
 Then drag one or more of .RIB files onto Convert_Win.
+
 .GPX files should appear where your .RIB files were.
 
 
@@ -17,9 +18,8 @@ $ java -jar FlightConverter.jar *.RIB
 
 
 Mac OS users:
-Uhh.... I am not sure
+Uhh.... I am not sure.
 Try... maybe... copy .RIB files from HUD somewhere,
 then open a Terminal and type
-java -jar FlightConverter.jar <file.RIB>
+java -jar FlightConverter.jar DAYxxx.RIB
 
-???
